@@ -62,29 +62,16 @@
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=silvacriativo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvacriativo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<div>
+<a href="https://github.com/silvacriativo">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvacriativo&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=silvacriativo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 <img src="https://raw.githubusercontent.com/silvacriativo/silvacriativo/output/snake.svg" alt="Snake animation" />
 
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/silvacriativo?style=social)
-
 
 
