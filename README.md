@@ -1,7 +1,7 @@
 
 <h3><strong><em> Hey guys, I'm Matheus Silva! :D</em></strong></h3>
 
-<p>I am 29 years old and I am from Brazil. I am currently studying Systems Analysis and Development at UVA.</p> 
+<p>I am 29 years old and I am from Brazil. I am currently studying Systems Analysis and Development.</p> 
 <hr>
 
 ### 🤖 Linguagens e Tecnologias
