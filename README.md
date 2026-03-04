@@ -1,7 +1,7 @@
 
-<h3><strong><em> Hey guys, I'm Matheus Silva! :D</em></strong></h3>
+<h3><strong><em> Oi Pessoal, Eu sou Matheus Silva! :D</em></strong></h3>
 
-<p>I am 29 years old and I am from Brazil. I am currently studying Systems Analysis and Development.</p> 
+<p>Eu sou Estagiário em Análise e Desenvolvimento de Sistemas na UniCesumar com formação prevista para 2028.</p> 
 <hr>
 
 ### 🤖 Linguagens e Tecnologias
