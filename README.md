@@ -17,7 +17,7 @@ Durante meus estudos, venho adquirindo experiência prática em linguagens de pr
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
 </div>
-###
+
 
 <br clear="both">
 
