@@ -4,25 +4,6 @@
 <p>Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Cesumar (Unicesumar), com foco em desenvolvimento de software e construção de soluções tecnológicas. Atualmente estou em processo de formação na área de tecnologia, desenvolvendo habilidades em programação, lógica computacional e desenvolvimento web.
 
 Durante meus estudos, venho adquirindo experiência prática em linguagens de programação como Python, HTML, CSS e JavaScript, além de utilizar ferramentas de versionamento de código como Git e GitHub para organização e gerenciamento de projetos.</p> 
-<hr>
-
-
-
-
-
-<img src="https://raw.githubusercontent.com/silvacriativo/silvacriativo/output/snake.svg" alt="Snake animation" />
-
-
-![GitHub Org's stars](https://img.shields.io/github/stars/silvacriativo?style=social)
-
-
-<p align="left">Oi Pessoal, Eu sou Matheus Silva! :D</p>
-
-###
-
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Cesumar (Unicesumar), com foco em desenvolvimento de software e construção de soluções tecnológicas. Atualmente estou em processo de formação na área de tecnologia, desenvolvendo habilidades em programação, lógica computacional e desenvolvimento web.<br><br>Durante meus estudos, venho adquirindo experiência prática em linguagens de programação como Python, HTML, CSS e JavaScript, além de utilizar ferramentas de versionamento de código como Git e GitHub para organização e gerenciamento de projetos.</p>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
