@@ -5,6 +5,7 @@
 
 Durante meus estudos, venho adquirindo experiência prática em linguagens de programação como Python, HTML, CSS e JavaScript, além de utilizar ferramentas de versionamento de código como Git e GitHub para organização e gerenciamento de projetos.</p> 
 
+###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="30" />
@@ -16,7 +17,6 @@ Durante meus estudos, venho adquirindo experiência prática em linguagens de pr
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
 </div>
-
 ###
 
 <br clear="both">
